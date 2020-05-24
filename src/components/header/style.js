@@ -1,0 +1,22 @@
+import { makeStyles } from '@material-ui/core';
+const useStyles = makeStyles((theme) => ({
+    appBar: {
+        backgroundColor: '#6cad97',
+        color: '#FFFFFF',
+        width: '100%',
+
+    },
+    typo: {
+        fontWeight: 'bold',
+        textAlign: 'center'
+    },
+    rightToolbar: {
+        marginLeft: 'auto',
+        marginRight: -12,
+    },
+    btnn: {
+        width: '100%',
+        color: 'white'
+    }
+}));
+export default useStyles;

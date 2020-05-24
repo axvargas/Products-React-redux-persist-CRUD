@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## SUPER IMPORTANT SCRYPTTTTTTTTTTT
+json-server --watch db.json --port 4000
+Run this scrypt on the terminal of your computer in order to run the json server
+
 ## Available Scripts
 
 In the project directory, you can run:
